@@ -13,6 +13,9 @@ __pycache__/
 10_Kafka_Event_Streaming
 10_Kafka_Event_Streaming_Docker_Version
 
+# Virtual environment
+.venv/
+
 # Flickr credentials
 04_Flickr_WebAPI/credentials.json
 
