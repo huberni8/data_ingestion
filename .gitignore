@@ -3,6 +3,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.html   # Generated HTML files from notebooks
 
 # Videofiles
 .mp4
