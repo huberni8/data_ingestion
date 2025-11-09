@@ -23,3 +23,4 @@ __pycache__/
 # macOS system files
 .DS_Store
 **/.DS_Store
+google-chrome-stable_current_amd64.deb
